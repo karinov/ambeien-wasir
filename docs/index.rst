@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Contoh Repository Digital | Github Dokumen
+Contoh Penyebab Penyakit Wasir atau Ambeien
 ==================================================
 
 Contents:
@@ -23,44 +23,29 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Karinov Media Network 
-==================
-- https://karinov.co.id - jasa digital marketing indonesia
-- https://www.tnol.co.id - forum modifikasi otomotif indonesia
-- https://blogs.itb.ac.id/wikia - catatan hidup mahasiswa wikia alfa
-- https://blogs.itb.ac.id/feeds - kumpulan tautan berita terbaru indonesia
-- https://www.m-edukasi.web.id - portal bisnis online dan umkm
-- https://www.pelita.or.id - harian pelita portal informasi terkini
+- `Obat apotik untuk ambeien wasir <https://karinov.co.id/obat-apotik-untuk-meredakan-ambeien/>`_
+- `Ardium 1000 untuk ringankan ambeien <https://www.ambeien-wasir.id/>`_
+- `Ardium obat rekomendasi wasir <https://wiki.karinov.co.id/ardium-obat-untuk-ambeien-wasir/>`_
 
-Tech News Online
-==================
-Portal teknologi internet dan internet marketing. Fokus mengulas seputar dunia startup, perkembangan teknologi informasi, serta dunia bisnis online.
+Penyakit wasir atau umum disebut ambeien kerap dialami oleh banyak orang. Namun, kebanyakan merasa malu untuk memeriksakannya ke dokter ataupun membeli obat ke apotek. Wasir terjadi ketika pembuluh darah vena di sekitar area anus membengkak karena radang. Akibatnya, kita merasakan kurang nyaman saat berkegiatan karena adanya pembengkakan yang mengganjal di area anus. 
+Hal ini biasanya menyebabkan rasa nyeri ketika buang air besar (BAB), rasa gatal, dan benjolan yang cukup besar di anus. Jika sudah cukup parah biasanya menyebabkan pendarahan ketika atau sesudah BAB. Selain itu, kotoran yang keluar juga disertai dengan lendir dan terasa sakit.
 
-M-edukasi.web.id
+Penyebab Munculnya Ambeien/Wasir
 ==================
-Mengupas tuntas berbagai hal terkait bisnis di era digital. Fokus dalam topik pengembangan startup di Indonesia, tips & trik blogging, serta SEO.
+Belum ada yang bisa memastikan penyebab tepat penyakit wasir. Namun, kondisi tubuh dan pola hidup menjadi salah satu yang berpengaruh akan munculnya wasir. Beberapa hal yang diduga menjadi penyebab munculnya wasir antara lain:
 
-Karinov Wiki
-==================
-Membahas berbagai problem dan pertanyaan yang sering muncul di internet. Karinov Wiki menawarkan Anda berbagai cara paling mudah dalam menyelesaikan masalah.
+1.	BAB tidak teratur
+BAB tidak teratur bisa disebabkan karena diare ataupun sembelit. Keduanya berakibat munculnya wasir karena penderitanya mengeluarkan tenaga dan upaya lebih saat BAB. Akibatnya, pembuluh di anus membengkak karena terpicu hal tersebut.
 
-Karinov.co.id
-==================
-Your next digital partner. Kami membantu bisnis Anda berkembang di era digital lewat layanan website dan optimasi SEO. Powered by Google Cloud Platform. Hire Us!
+2.	Kurang serat
+Asupan makanan sehari-hari harus terdiri dari nutrisi komplet termasuk sayur dan buah. Dua jenis makanan ini menyediakan serat yang dibutuhkan tubuh. Jika kekurangan, apalagi ditambah dengan terlalu banyak mengkonsumsi daging-dagingan, maka akan menyebabkan wasir.
 
-Klub Studi
-==================
-Klub Studi Mahasiswa Bandung Hadir untuk memenuhi resources yang banyak dibutuhkan mahasiswa secara umum baik dari sisi keilmuan, aktivitas organisasi, serta materi lainnya.
+3.	Terlalu sering duduk
+Kebiasaan duduk dalam waktu yang lama menyebabkan wasir karena menekan pembuluh darah di area anus. Tekanan yang muncul menyebabkan pembuluh darah semakin terisi dan membesar.
+ 
+4.	Kegendutan
+Obesitas atau kegendutan juga bisa mengakibatkan wasir karena lemak yang menekan pembuluh darah di area pembuangan akhir. 
 
-Pusat informasi SNMPTN
-==================
-SBMPTN serta beasiswa secara online. Tersedia info lengkap beserta tips mendapatkan beasiswa dalam dan luar negeri.
-Wikia Alfa Kumpulan Informasi Terkini, membahas seputar dunia teknologi, otomotif, pemasaran bisnis serta informasi menarik lainnya hanya di Wikia Alfa ITB Blogs.
-
-DMO.or.id
-==================
-Portal digital marketing rujukan untuk UKM dan bisnis online. Membahas berbagai tips dan trik seputar dunia pemasaran (marketing), SEO, serta trend terkini di dunia digital.
-
-- `kumpulan budaya indonesia <https://budaya.readthedocs.io/en/latest/>`_
-- `Otomotif on rftd <https://otomotif.readthedocs.io/en/latest/>`_
-- `alexa on rftd <https://alexa.readthedocs.io/en/latest/>`_
+5.	Kehamilan
+Ada beberapa kasus kehamilan yang memunculkan wasir bagi ibu hamil. Penyebabnya adalah janin yang terus berkembang sehingga rahim menekan pembuluh darah di usus besar. Selain itu, perubahan hormonal juga ikut berpengaruh.
+Wasir bisa menjadi penyakit yang membahayakan jika terlambat ditangani. Namun, bisa dilakukan pencegahan atau pengobatan secara alami untuk menguranginya.
