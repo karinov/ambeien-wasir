@@ -41,8 +41,5 @@ License
 The project is licensed under the BSD license.
 
 - https://karinov.co.id - jasa digital marketing indonesia
-- https://www.tnol.co.id - forum modifikasi otomotif indonesia
-- https://blogs.itb.ac.id/wikia - catatan hidup mahasiswa wikia alfa
-- https://blogs.itb.ac.id/feeds - kumpulan tautan berita terbaru indonesia
-- https://www.m-edukasi.web.id - portal bisnis online dan umkm
-- https://www.pelita.or.id - harian pelita portal informasi terkini
+- https://www.navi.id - forum navigasi pariwisata indonesia
+- https://www.ambeien-wasir.id - obat ambeien Ardium 1000
